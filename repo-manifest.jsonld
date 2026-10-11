@@ -1,0 +1,14 @@
+{
+  "@context": "https://repolex.ai/ontology/jsonld-context/repolex-context.jsonld",
+  "@id": "https://repolex.ai/r/psf/sboms-for-python-packages",
+  "@type": "gh:Repository",
+  "gh:name": "sboms-for-python-packages",
+  "gh:owner": "psf",
+  "repolex:trackedCommit": [
+    {
+      "@id": "https://repolex.ai/r/psf/sboms-for-python-packages/commit/a399bc2f1e948c043b92db9d125aface091cbafa",
+      "git:hexsha": "a399bc2f1e948c043b92db9d125aface091cbafa",
+      "repolex:parseStatus": "metadata_complete"
+    }
+  ]
+}
