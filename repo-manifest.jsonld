@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/psf/sboms-for-python-packages/commit/a399bc2f1e948c043b92db9d125aface091cbafa",
       "git:hexsha": "a399bc2f1e948c043b92db9d125aface091cbafa",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
